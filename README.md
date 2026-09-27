@@ -37,7 +37,7 @@ the post lab expands on the prelab by introducing 3 AXI GPIO blocks to the Zynq 
 
 the block diagram is shown below
 
-![Figure 1: Vivado Block Diagram (Post Lab)]()
+![Figure 1: Vivado Block Diagram (Post Lab)](https://github.com/gtponce9/ECE520-Lab-2/blob/d97ac195bfb271d766aefb24afc67fc19c21c42d/AXI_GPIO_Instantiation_post_lab.png)
 
 ### Vitis Code
 
